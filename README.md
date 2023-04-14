@@ -23,7 +23,7 @@ The dashboard typically includes a variety of financial metrics such as revenue,
 
 **Attachment**
 
-**links** 
+**links** https://github.com/prafullgangrade/Financial_Analaysis_power_bi.git
 
 
 
